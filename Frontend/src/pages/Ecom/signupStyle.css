@@ -1,0 +1,151 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.main{
+	background-image: url(Images/signupbg.png);
+	opacity: 96%;
+	background-size: cover;
+	background-attachment: fixed;
+	width: auto;
+	height: 100vh;
+	position: relative;
+}
+
+.navbar{
+	width: 100%;
+	height: 70px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	top: 0; 
+}
+
+.logo{
+	position: relative;
+	left: 8%;
+	top: 40%;
+	opacity: 80%;
+}
+
+.logo img{
+	width: 50%;
+}
+
+.login{
+	height: 100vh;
+	width: 32vw;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	color: aliceblue;
+	right: 10%;
+}
+
+.login a{
+    letter-spacing: 1.5px;
+    position: relative;
+    text-decoration: none;
+    font-family: 'Poopins', sans-serif;
+    color: red;
+    justify-content: space-around;
+    font-size: 18px;
+	justify-content: space-around;
+ }
+
+ .signup a{
+    letter-spacing: 1.5px;
+    position: relative;
+    text-decoration: none;
+    font-family: 'Poopins', sans-serif;
+    color: ghostwhite;
+    justify-content: space-around;
+    font-size: 18px;
+	justify-content: space-around;
+ }
+ 
+ .signup a:after, .login a:after{
+     content: "";
+     position: absolute;
+     background-color:red;
+     height: 3px;
+     width: 0;
+     left: 0;
+     bottom: -10px;
+     transition: 0.3s;
+ }
+
+ .signup a:hover:after, .login a:hover:after{
+     width: 100%;
+ }
+
+ p{
+	font-size: 18px;
+}
+
+.signup
+{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: #fff;
+}
+
+h1
+{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+    color: #fff;
+}
+
+label
+{
+    font-size: 20px;
+    margin: 15px 0;
+    color: aliceblue;
+}
+
+input
+{
+    font-size: 16px;
+    width: 100%;
+    padding: 8px 05px;
+    border: 2px red;
+    outline: none;
+    border-radius: 5px;
+    align-items: center;
+    background: none;
+    border-style: groove;
+    color: aliceblue;
+}
+
+::placeholder{
+    color: lightgray;
+}
+
+button
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 25px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    align-items: center;
+}
+
+button[type="submit"]:hover
+{
+    background: red;
+    color: #000;
+}
