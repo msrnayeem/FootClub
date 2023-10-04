@@ -1,0 +1,87 @@
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\DAL.dll
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\DAL.pdb
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\.NET\MyFC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.dll
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.pdb
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\AIUB\.NET\MyFC\DAL\obj\Debug\DAL.Migrations.userAnnounceTableCreated.resources
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\DAL.dll.config
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.Migrations.userAnnounceTableCreated.resources
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\Downloads\MyFc\MyFC\DAL\obj\Debug\DAL.Migrations.InjuryRating.resources
+D:\ASP.Net\MyFc\DAL\bin\Debug\DAL.dll.config
+D:\ASP.Net\MyFc\DAL\bin\Debug\DAL.dll
+D:\ASP.Net\MyFc\DAL\bin\Debug\DAL.pdb
+D:\ASP.Net\MyFc\DAL\bin\Debug\EntityFramework.dll
+D:\ASP.Net\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.Net\MyFc\DAL\bin\Debug\EntityFramework.xml
+D:\ASP.Net\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.Migrations.userAnnounceTableCreated.resources
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.Migrations.InjuryRating.resources
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.dll
+D:\ASP.Net\MyFc\DAL\obj\Debug\DAL.pdb
+D:\MyFc\DAL\bin\Debug\DAL.dll.config
+D:\MyFc\DAL\bin\Debug\DAL.dll
+D:\MyFc\DAL\bin\Debug\DAL.pdb
+D:\MyFc\DAL\bin\Debug\EntityFramework.dll
+D:\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFc\DAL\bin\Debug\EntityFramework.xml
+D:\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFc\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\MyFc\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\MyFc\DAL\obj\Debug\DAL.Migrations.userAnnounceTableCreated.resources
+D:\MyFc\DAL\obj\Debug\DAL.Migrations.InjuryRating.resources
+D:\MyFc\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\MyFc\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\MyFc\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\MyFc\DAL\obj\Debug\DAL.dll
+D:\MyFc\DAL\obj\Debug\DAL.pdb
+D:\Full Stack\MyFc\DAL\bin\Debug\DAL.dll.config
+D:\Full Stack\MyFc\DAL\bin\Debug\DAL.dll
+D:\Full Stack\MyFc\DAL\bin\Debug\DAL.pdb
+D:\Full Stack\MyFc\DAL\bin\Debug\EntityFramework.dll
+D:\Full Stack\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Full Stack\MyFc\DAL\bin\Debug\EntityFramework.xml
+D:\Full Stack\MyFc\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Full Stack\MyFc\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Full Stack\MyFc\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Full Stack\MyFc\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Full Stack\MyFc\DAL\obj\Debug\DAL.dll
+D:\Full Stack\MyFc\DAL\obj\Debug\DAL.pdb
+D:\Full Stack\Backend\DAL\bin\Debug\DAL.dll.config
+D:\Full Stack\Backend\DAL\bin\Debug\DAL.dll
+D:\Full Stack\Backend\DAL\bin\Debug\DAL.pdb
+D:\Full Stack\Backend\DAL\bin\Debug\EntityFramework.dll
+D:\Full Stack\Backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Full Stack\Backend\DAL\bin\Debug\EntityFramework.xml
+D:\Full Stack\Backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Full Stack\Backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Full Stack\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Full Stack\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Full Stack\Backend\DAL\obj\Debug\DAL.dll
+D:\Full Stack\Backend\DAL\obj\Debug\DAL.pdb

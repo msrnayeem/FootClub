@@ -1,0 +1,123 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+.navbar{
+	width: 100%;
+	height: 70px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	top: 0; 
+    background-color: black;
+}
+
+.menu{
+	height: 100vh;
+	width: 32vw;
+	position: relative;
+	display: flex;
+	align-items: center;
+	left:-4%;
+	bottom: 620%;
+}
+
+.banner{
+	background-image: url(./../../assets/images/player.jpg);
+	opacity: 96%;
+	background-size: cover;
+	background-attachment: fixed;
+	width: auto;
+	height: 100vh;
+	position: relative;
+	opacity: 95%;
+}
+
+button{
+	background-color: red;
+}
+
+.logo{
+	position: relative;
+	right:50%;
+	top: -20%;
+	opacity: 80%;
+}
+
+.logo img{
+	width: 30%;
+}
+
+.menu a, .slogan a, .menu2 a{
+    letter-spacing: 1.5px;
+    position: relative;
+    text-decoration: none;
+    font-family: 'Poopins', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+ }
+ 
+ .menu a:after, .slogan a:after, .menu2 a:after{
+     content: "";
+     position: absolute;
+     background-color:red;
+     height: 3px;
+     width: 0;
+     left: 0;
+     bottom: -10px;
+     transition: 0.3s;
+ }
+ .menu a:hover:after, .menu2 a:hover:after, .slogan a:hover:after{
+     width: 100%;
+ }
+
+ .material-symbols-sharp{
+    position: relative;
+    right:0;
+ }
+
+ span{
+    color: aliceblue;
+ }
+
+ .slogan{
+	position: relative;
+	letter-spacing: 1.5px;
+	top: 39%;
+	left: 20%;
+	color: aliceblue;
+}
+
+h1{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 55px;
+}
+
+.slogan a{
+	color: red;
+}
+
+p{
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.menu2{
+	height: 10vh;
+	width: 50vw;
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	right: 10%;
+	top:-4%;
+	border: 2px red;
+    outline: none;
+    border-radius: 5px;
+    background: none;
+    border-style: groove;
+}

@@ -1,0 +1,70 @@
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\BLL.dll
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\BLL.pdb
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\AutoMapper.dll
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\DAL.dll
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\DAL.pdb
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\DAL.dll.config
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\AutoMapper.xml
+E:\AIUB\.NET\MyFC\BLL\bin\Debug\EntityFramework.xml
+E:\AIUB\.NET\MyFC\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB\.NET\MyFC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB\.NET\MyFC\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\AIUB\.NET\MyFC\BLL\obj\Debug\BLL.dll
+E:\AIUB\.NET\MyFC\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\AutoMapper.dll
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\DAL.dll.config
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\AutoMapper.xml
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Downloads\MyFc\MyFC\BLL\obj\Debug\BLL.pdb
+D:\ASP.Net\MyFc\BLL\bin\Debug\BLL.dll
+D:\ASP.Net\MyFc\BLL\bin\Debug\BLL.pdb
+D:\ASP.Net\MyFc\BLL\bin\Debug\AutoMapper.dll
+D:\ASP.Net\MyFc\BLL\bin\Debug\DAL.dll
+D:\ASP.Net\MyFc\BLL\bin\Debug\EntityFramework.dll
+D:\ASP.Net\MyFc\BLL\bin\Debug\DAL.pdb
+D:\ASP.Net\MyFc\BLL\bin\Debug\DAL.dll.config
+D:\ASP.Net\MyFc\BLL\bin\Debug\AutoMapper.xml
+D:\ASP.Net\MyFc\BLL\bin\Debug\EntityFramework.xml
+D:\ASP.Net\MyFc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ASP.Net\MyFc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.Net\MyFc\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ASP.Net\MyFc\BLL\obj\Debug\BLL.dll
+D:\ASP.Net\MyFc\BLL\obj\Debug\BLL.pdb
+D:\MyFc\BLL\bin\Debug\BLL.dll
+D:\MyFc\BLL\bin\Debug\BLL.pdb
+D:\MyFc\BLL\bin\Debug\AutoMapper.dll
+D:\MyFc\BLL\bin\Debug\DAL.dll
+D:\MyFc\BLL\bin\Debug\EntityFramework.dll
+D:\MyFc\BLL\bin\Debug\DAL.pdb
+D:\MyFc\BLL\bin\Debug\DAL.dll.config
+D:\MyFc\BLL\bin\Debug\AutoMapper.xml
+D:\MyFc\BLL\bin\Debug\EntityFramework.xml
+D:\MyFc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\MyFc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\MyFc\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\MyFc\BLL\obj\Debug\BLL.dll
+D:\MyFc\BLL\obj\Debug\BLL.pdb
+D:\Full Stack\MyFc\BLL\bin\Debug\BLL.dll
+D:\Full Stack\MyFc\BLL\bin\Debug\BLL.pdb
+D:\Full Stack\MyFc\BLL\bin\Debug\AutoMapper.dll
+D:\Full Stack\MyFc\BLL\bin\Debug\DAL.dll
+D:\Full Stack\MyFc\BLL\bin\Debug\EntityFramework.dll
+D:\Full Stack\MyFc\BLL\bin\Debug\DAL.pdb
+D:\Full Stack\MyFc\BLL\bin\Debug\DAL.dll.config
+D:\Full Stack\MyFc\BLL\bin\Debug\AutoMapper.xml
+D:\Full Stack\MyFc\BLL\bin\Debug\EntityFramework.xml
+D:\Full Stack\MyFc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Full Stack\MyFc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Full Stack\MyFc\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Full Stack\MyFc\BLL\obj\Debug\BLL.dll
+D:\Full Stack\MyFc\BLL\obj\Debug\BLL.pdb
